@@ -1,22 +1,25 @@
 # Implementeed a reccomendation_system using the Udemy dataset
 
-further improvements coming...
+##In the mean time if you wanna run it on your local 
 
-in the mean time if you wanna run it on your local 
+##git clone the repo...
 
-git clone the repo...
+##Create your environment
 
-Create your environment
 $ python -m venv .venv
 
-Activate your environment
+##Activate your environment
+
 $ source .venv/bin/activate
 
-Installing dependecies
+##Installing dependecies
+
 $ pip install -r requirements.txt
 
-Run Streamlit 
+##Run Streamlit 
+
 $ streamlit run reccomendation.py
 
+further improvements coming...
 
 
